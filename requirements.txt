@@ -1,0 +1,4 @@
+mediapipe>=0.10.30
+opencv-contrib-python
+pydirectinput
+numpy
