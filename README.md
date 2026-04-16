@@ -4,6 +4,8 @@
 
 ### how to run:
 
+in terminal:
+
 ```
 git clone https://github.com/e-yang6/subway-sufers.git
 cd subway-sufers
