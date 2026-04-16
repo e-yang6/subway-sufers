@@ -247,6 +247,7 @@ def draw_overlay(frame, lean_dir, action, pose_landmarks):
 
 def main():
     pydirectinput.FAILSAFE = False
+    pydirectinput.PAUSE = 0
     download_model()
 
     options = vision.PoseLandmarkerOptions(
