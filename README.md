@@ -2,7 +2,7 @@
 
 ![Subway Surfers](subway%20sufers.png)
 
-#### How to Run:
+### How to Run:
 
 ```
 git clone https://github.com/e-yang6/subway-sufers.git
