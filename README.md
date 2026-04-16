@@ -20,4 +20,10 @@ open a subway surfers emulator, then:
 python controller.py
 ```
 
+### controls:
+
+- **lean left/right** — switch lanes
+- **jump** — jump
+- **squat** — duck
+
 have fun!
